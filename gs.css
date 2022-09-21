@@ -1,0 +1,53 @@
+.speech {
+   font-family:'Times New Roman', Times, serif;
+   font-size: 15px;
+   color:black;
+
+}
+.song {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:black;
+ 
+ }
+ .direction:hover {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:black;
+    background-color: lightgray;
+ 
+ }
+ .name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+ 
+ }
+ .KO {
+    color:aqua;
+
+ }
+ .PISH {
+    color:aqua;
+ }
+ .NANK {
+    color:aqua;
+ }
+ .YUM {
+    color:aqua;
+ }
+ .PEEP {
+    color:aqua;
+ }
+ .PITTI {
+    color:aqua;
+ }
+ .POOH {
+    color: aqua;
+ }
+ .Yum-Yum {
+    color:aqua;
+ }
+ .CHORUS {
+    font-family: 'Times New Roman', Times, serif;
+ }
