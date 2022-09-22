@@ -51,3 +51,19 @@
  .CHORUS {
     font-family: 'Times New Roman', Times, serif;
  }
+ table {
+    border: 2px solid green;
+    color:green;
+    text-align:center;
+    border-collapse: collapse;
+
+ }
+ td,th {
+    border: 2px solid lightcoral;
+    padding: 10px;
+    text-align: center;
+
+ }
+ tr:nth-child(even) {
+    background-color: lightgray;
+ }
