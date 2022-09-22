@@ -23,6 +23,11 @@
     color: black;
  
  }
+
+ .name:hover
+ {
+    background-color: blueviolet;
+ }
  .KO {
     color:brown;
 
