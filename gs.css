@@ -79,4 +79,27 @@
     box-shadow: 10px 5px 5px rgb(237,91,206);
     background-color: blueviolet;
  }
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:aquamarine;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: green;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:gray;
+  }
 
